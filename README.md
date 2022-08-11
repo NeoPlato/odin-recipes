@@ -2,6 +2,14 @@
 
 This is a very simple online resource to view recipes.
 
+### CONTENT
+
+The recipes covered here include:
+
+*   Pancakes
+*   Pasta
+*   Pilau (nice rice)
+
 ### Skill level
 
 *    [ ]  Make basic HTML like a big baby boy.
