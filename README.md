@@ -6,7 +6,7 @@ This is a very simple online resource to view recipes.
 
 The recipes covered here include:
 
-*   Pancakes
+*   Buttermilk Oatmeal Pancakes
 *   Pasta
 *   Pilau (nice rice)
 
