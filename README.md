@@ -12,11 +12,11 @@ The recipes covered here include:
 
 ### Skill level
 
-*    [ ]  Make basic HTML like a big baby boy.
-*    [ ]  Make pages for each recipe.
-*    [ ]  Add paragraphs, lists and images for each recipe.
-*   [ ] Connect the pages together with links to the home page.
-*    [x]  Wait for [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) to teach me how to make this less of a mess.
+*    [x]  Make basic HTML like a big baby boy.
+*    [x]  Make pages for each recipe.
+*    [x]  Add paragraphs, lists and images for each recipe.
+*    [x]  Connect the pages together with links to the home page.
+*    [ ]  Make it pretty with CSS sometime in the future.
 
 ### LICENSE
 
